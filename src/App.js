@@ -1,12 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
+import LandingPage from './components/LandingPage';
 import './App.css';
-
-import Button from 'react-bootstrap/Button';
 
 function App() {
   return (
     <div className="App">
-      <Button variant="primary">Primary</Button>
+      <LandingPage/>
     </div>
   );
 }
