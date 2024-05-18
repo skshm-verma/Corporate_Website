@@ -4,6 +4,9 @@ import Home from './home/Home'
 import About from './about/About'
 import Service from './service/Service'
 import Works from './works/Works'
+import Teams from './teams/Teams'
+import Testimonials from './testimonials/Testimonials'
+import Pricing from './pricing/Pricing'
 
 const LandingPage = () => {
     return (
@@ -16,6 +19,9 @@ const LandingPage = () => {
                 <About/>
                 <Service/>
                 <Works/>
+                <Teams/>
+                <Testimonials/>
+                <Pricing/>
             </main>
         </>
     )

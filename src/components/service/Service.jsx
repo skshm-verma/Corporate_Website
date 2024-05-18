@@ -48,8 +48,8 @@ const Service = () => {
             <Container fluid>
                 <div className='title-holder'>
                     <h2>Our Services</h2>
+                <div className='subtitle'>services we provide</div>
                 </div>
-                <div className='subtitle'>- services we provide -</div>
                 <Row>
                     {servicesData.map(services => {
                         return (

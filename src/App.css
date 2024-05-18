@@ -238,13 +238,6 @@ textarea {
   padding: 10px 15px !important;
 }
 
-.subtitle{
-  text-align: center;
-  font-size: 12px;
-  margin: 0 0 30px;
-  color: #7e7474;
-}
-
 .title-holder {
   text-align: center;
   margin: 0 0 4px;
@@ -257,6 +250,7 @@ textarea {
 
 .title-holder .subtitle {
   color: #999999;
+  margin-bottom : 2em;
 }
 
 .title-holder .subtitle:before {

@@ -33,7 +33,7 @@ const Home = () => {
             <Carousel fade >
                 {homeData.map(home => {
                     return (
-                        <Carousel.Item key = {home.id} interval={1500} >
+                        <Carousel.Item key = {home.id} interval={1000} >
                             <img 
                             className='d-block w-100'
                             src = {home.image}

@@ -17,8 +17,8 @@ const About = () => {
             <Container fluid>
                 <div className='title-holder'>
                     <h2>About Us</h2>
+                <div className='subtitle'>Learn more about us</div>
                 </div>
-                <div className='subtitle'>- Learn more about us -</div>
                 <Row>
                     <Col sm={6}><Image src={img1} /></Col>
                     <Col sm={6}>

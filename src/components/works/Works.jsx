@@ -87,8 +87,8 @@ const Works = () => {
             <Container fluid>
                 <div className='title-holder'>
                     <h2>Our Works</h2>
+                    <div className='subtitle'>Our awesome works</div>
                 </div>
-                <div className='subtitle'>- Our awesome works -</div>
                 <Row className='portfoliolist'>
                     {worksData.map(works => {
                         return (
