@@ -7,8 +7,12 @@ import Works from './works/Works'
 import Teams from './teams/Teams'
 import Testimonials from './testimonials/Testimonials'
 import Pricing from './pricing/Pricing'
+import Blog from './blog/Blog'
+import Contact from './contact/Contact'
+import Footer from './footer/Footer'
 
 const LandingPage = () => {
+
     return (
         <>
             <header id='header'>
@@ -22,7 +26,12 @@ const LandingPage = () => {
                 <Teams/>
                 <Testimonials/>
                 <Pricing/>
+                <Blog/>
+                <Contact/>
             </main>
+            <footer id='footer'>
+                <Footer/>
+            </footer>
         </>
     )
 }

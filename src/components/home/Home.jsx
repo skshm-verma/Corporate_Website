@@ -35,14 +35,14 @@ const Home = () => {
                     return (
                         <Carousel.Item key = {home.id} interval={1000} >
                             <img 
-                            className='d-block w-100'
+                            className='d-block w-100 extra-img-style'
                             src = {home.image}
                             alt = {'Slide '+ home.id}
                             />
                             <Carousel.Caption>
                                 <h3>{home.title}</h3>
                                 <p>{home.description}</p>
-                                <a className='btn btn-primary' href={home.link}>Learn more <i class='fas fa-chevron-right'></i></a>
+                                <a className='btn btn-primary' href={home.link}> <span>Learn more </span><i className='fas fa-chevron-right'></i></a>
                             </Carousel.Caption>
                         </Carousel.Item>
                     )

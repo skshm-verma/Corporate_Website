@@ -1060,8 +1060,35 @@ textarea {
     padding: 40px 0 10px;
   }
 
-  .hero-block .carousel-caption {
-    display: none;
+  .hero-block .carousel-caption h3{
+    font-size: 16px;
+    margin: 0;
+  }
+  .hero-block .carousel-caption p{
+    font-size: 10px;
+    margin: 5px 0px ;
+  }
+  .hero-block .carousel-caption a{
+    height: 25px;
+    width: 100px;
+    position: relative;
+  }
+
+  .hero-block .extra-img-style{
+    height: 250px;
+  }
+
+  .hero-block .carousel-caption a span{
+    position: absolute;
+    left: 10px;
+    bottom: 0.6px;
+    font-size: 10px;
+  }
+
+  .hero-block .carousel-caption a i{
+    position: absolute;
+    right: 7px;
+    bottom: 3px;
   }
 
   .hero-block .carousel-control {
