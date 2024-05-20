@@ -37,4 +37,3 @@ const Footer = () => {
 }
 
 export default Footer
-Footer
