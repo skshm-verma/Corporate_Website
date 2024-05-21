@@ -1,5 +1,6 @@
 # Corporate Website 🌐
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 	![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+## Description
 Welcome to the Corporate Website project! This repository contains the code for a modern, responsive website created using HTML, CSS, React JS, and the React Bootstrap framework. The website features a clean and visually appealing UI, with no backend functionality implemented.
 
 ## 🏠 Home
@@ -45,8 +46,8 @@ Find our contact details and location at the bottom of the page, along with link
 - **React JS**: For building the user interface
 - **React Bootstrap**: For responsive design and pre-built components
 
-## Some Visuals
-
+## Visual
+![screencapture-corporate-website-orpin-vercel-app-2024-05-21-20_14_57](https://github.com/skshm-verma/Corporate_Website/assets/106864834/aeb10341-33c7-48c3-89d6-526d2b9521b1)
 
 ## Getting Started
 
